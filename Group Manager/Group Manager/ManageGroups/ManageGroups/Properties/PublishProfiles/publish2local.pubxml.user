@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\ADGroupManager</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AddMember.aspx">
+      <publishTime>07/23/2017 00:53:46</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>07/25/2017 01:24:31</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>07/25/2017 01:24:30</publishTime>
+    </File>
+    <File Include="bin/ManageGroups.dll">
+      <publishTime>07/25/2017 01:24:22</publishTime>
+    </File>
+    <File Include="GroupDetails.aspx">
+      <publishTime>07/21/2017 07:59:38</publishTime>
+    </File>
+    <File Include="Groups.aspx">
+      <publishTime>07/23/2017 08:56:52</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>07/25/2017 01:24:26</publishTime>
+    </File>
+    <File Include="ShowCurrentIdentity.aspx">
+      <publishTime>07/24/2017 23:58:03</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/25/2017 01:24:24</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+C:\inetpub\wwwroot\Group Manager\ManageGroups\ManageGroups\bin\ManageGroups.dll.config
+C:\inetpub\wwwroot\Group Manager\ManageGroups\ManageGroups\bin\ManageGroups.dll
+C:\inetpub\wwwroot\Group Manager\ManageGroups\ManageGroups\bin\ManageGroups.pdb
+C:\inetpub\wwwroot\Group Manager\ManageGroups\ManageGroups\obj\Release\ManageGroups.dll
+C:\inetpub\wwwroot\Group Manager\ManageGroups\ManageGroups\obj\Release\ManageGroups.pdb
